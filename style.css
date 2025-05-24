@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    
+}
+
+body{
+    background-image: url(bg-img.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.container{
+    border: 1px solid rgb(235, 108, 34);
+    height: 400px;
+    width: 400px;
+    border-radius: 10px;
+    margin: 100px auto ;
+    padding: 90px;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 40px;
+    color: rgb(238, 17, 17);
+}
+
+button{
+    border: none;
+    border-radius: 16px;
+    padding: 10px 20px;
+    font-size: 20px;
+    margin-left: 65px;
+    background-color: bisque;
+    color: brown;
+}
