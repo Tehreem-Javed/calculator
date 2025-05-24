@@ -31,5 +31,5 @@ calculator/
 3. See the result in an alert.
 
 ## 📬 Author
-Made with ❤️ by "Tehreem Javed"
+Made with ❤️ by [Tehreem Javed](https://github.com/Tehreem-Javed)
 
